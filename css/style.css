@@ -14,7 +14,7 @@ header hr {
 }
 
 .biography {
-	width: 78%;
+	width: 75%;
 	display: inline-block;
 	font-size: 14px;
 	line-height: 1.6;
@@ -29,14 +29,14 @@ header hr {
 }
 
 .summary-table {
-	border: 1px solid #a2a9b;
+	border: 1px solid #aaa;
 	background-color: #f8f9fa;
 	padding: 1px;
 	font-size: 14px;
 }
 
 .summary-table thead th {
-	background-color: #90C4DE;
+	background-color: #B0C4DE;
 	padding-top: 3px; 
 	padding-bottom: 3px;
 	font-size: 16px;
